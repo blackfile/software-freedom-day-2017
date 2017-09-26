@@ -22,8 +22,8 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 12:00 a 01:00 | __Almuerzo (SFD lunch)__ |||
 | 01:00 a 01:30 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
 | 01:30 a 02:00 | Web Scraping | [Luis Manuel](https://github.com/blackfile) ||
-| 02:30 a 03:00 | Infraestrutura Open-Source | [Oscar]() ||
-| 03:00 a 03:30 ||||
+| 02:30 a 03:00 | Vue.js |[Zahir Gudiño](https://twitter.com/zgudino?lang=es)|| 
+| 03:00 a 03:30 | Infraestrutura Open-Source | [Oscar]() ||
 | 03:30 a 04:00 ||||
 
 ## Info 
