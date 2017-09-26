@@ -8,4 +8,6 @@ ___
 
 __Software Freedom Day (SFD)__ es una celebración de Software Libre realizada anualmente alrededor del mundo. SFD es un esfuerzo de educación pública con el objetivo de aumentar la conciencia del Software Libre y sus virtudes, y alentar su uso.
 
-__Software Freedom Day__ se estableció en el 2004 y se celebró por primera vez el 28 de agosto de ese año. Alrededor de 12 equipos participaron en el primer Software Freedom Day. Desde entonces ha crecido en popularidad y cada año más de 300 eventos son organizados en más de 100 ciudades del mundo.
+__Software Freedom Day__ se estableció en el 2004 y se celebró por primera vez el 28 de agosto de ese año. Alrededor de 12 equipos participaron en el primer Software Freedom Day. Desde entonces ha crecido en popularidad y cada año más de 300 eventos son organizados en más de 100 ciudades del mundo.  
+
+> **Fuente:** [SoftwareFreedomDay.org](https://www.softwarefreedomday.org/)
