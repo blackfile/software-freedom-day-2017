@@ -21,7 +21,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 11:15 a 12:00 ||||
 | 12:00 a 01:00 | __Almuerzo (SFD lunch)__ |||
 | 01:00 a 01:30 |Internet of Things: Protocols, Evolution and Why you should care about.| [Kiara Navarro](https://twitter.com/ladykovalevsky?lang=es)||
-| 01:30 a 02:00 ||||
+| 01:30 a 02:00 | Web Scraping| [Luis Manuel](https://github.com/blackfile)||
 | 02:30 a 03:00 ||||
 | 03:00 a 03:30 ||||
 | 03:30 a 04:00 ||||
