@@ -8,6 +8,8 @@ Promocionar el software libre en la comunidad,
 con fin de lograr que se tenga mayor conocimiento en las 
 diferentes áreas y puedan aplicarlo en su vida cotidiana.
 
+
+
 ## Planificación
 
 |     HORA      |                                Tema                                  |  Conferencista | Ubicación|
@@ -23,3 +25,6 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 02:30 a 03:00 ||||
 | 03:00 a 03:30 ||||
 | 03:30 a 04:00 ||||
+
+## Info: 
+#### [¿Qué es Software Libre?](/info/whatis.md)
