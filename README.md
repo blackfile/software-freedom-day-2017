@@ -22,7 +22,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 12:00 a 12:30 | __Almuerzo (SFD lunch)__ |||
 | 12:30 a 1:00  | Por definir... | [Omar Vasquez](https://mozillians.org/es/u/omar.vasquezlima/) ||
 | 01:00 a 01:30 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
-| 01:30 a 02:00 | Web Scraping | [Luis Manuel](https://github.com/blackfile) ||
+| 01:30 a 02:00 | Introducción al Web Scraping| [Luis Manuel](https://github.com/blackfile) ||
 | 02:30 a 03:00 | Vue.js |[Zahir Gudiño](https://twitter.com/zgudino?lang=es)|| 
 | 03:00 a 03:30 | Infraestrutura Open-Source | [Oscar Marrugo Ricardo](https://pa.linkedin.com/in/oscar-marrugo-ricardo-a558a573) ||
 | 03:30 a 04:00 | Por definir | [Julián Vega]()||
