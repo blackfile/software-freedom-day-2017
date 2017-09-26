@@ -26,5 +26,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 03:00 a 03:30 ||||
 | 03:30 a 04:00 ||||
 
-## Info: 
-#### [¿Qué es Software Libre?](/info/whatis.md)
+## Info 
+- #### [¿Qué es Software Freedom Day (SFD)?](/info/whatSFD.md)
+- #### [¿Qué es Software Libre?](/info/whatis.md)
+
