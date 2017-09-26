@@ -23,7 +23,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 01:00 a 01:30 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
 | 01:30 a 02:00 | Web Scraping | [Luis Manuel](https://github.com/blackfile) ||
 | 02:30 a 03:00 | Vue.js |[Zahir Gudiño](https://twitter.com/zgudino?lang=es)|| 
-| 03:00 a 03:30 | Infraestrutura Open-Source | [Oscar]() ||
+| 03:00 a 03:30 | Infraestrutura Open-Source | [Oscar Marrugo Ricardo](https://pa.linkedin.com/in/oscar-marrugo-ricardo-a558a573) ||
 | 03:30 a 04:00 | Por definir | [Julián Vega]()||
 
 ## Info 
