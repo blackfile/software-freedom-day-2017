@@ -3,6 +3,9 @@
 ### Fecha:  7 de octubre del 2017
 ### Lugar: Auditorio de la Universidad Interamericana de Panamá (UIP)
 
+### Registrate para participar de los premios [Link](https://www.eventbrite.com/e/software-freedom-day-tickets-38042449992)  .
+
+
 ## Objetivo
 Promocionar el software libre en la comunidad, 
 con fin de lograr que se tenga mayor conocimiento en las 
@@ -25,7 +28,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 01:30 a 02:00 | Introducción al Web Scraping| [Luis Manuel](https://github.com/blackfile) ||
 | 02:30 a 03:00 | Vue.js |[Zahir Gudiño](https://twitter.com/zgudino?lang=es)|| 
 | 03:00 a 03:30 | Infraestrutura Open-Source | [Oscar Marrugo Ricardo](https://pa.linkedin.com/in/oscar-marrugo-ricardo-a558a573) ||
-| 03:30 a 04:00 | Por definir | [Julián Vega]()||
+| 03:30 a 04:00 | Diseño Gráfico Open-Source | [Julián Vega](http://www.arpiasoftware.com/)||
 
 ## Info 
 - #### [¿Qué es Software Freedom Day (SFD)?](/info/whatSFD.md)
