@@ -24,7 +24,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 01:30 a 02:00 | Web Scraping | [Luis Manuel](https://github.com/blackfile) ||
 | 02:30 a 03:00 | Vue.js |[Zahir Gudiño](https://twitter.com/zgudino?lang=es)|| 
 | 03:00 a 03:30 | Infraestrutura Open-Source | [Oscar]() ||
-| 03:30 a 04:00 ||||
+| 03:30 a 04:00 | Por definir | [Julián Vega]()||
 
 ## Info 
 - #### [¿Qué es Software Freedom Day (SFD)?](/info/whatSFD.md)
