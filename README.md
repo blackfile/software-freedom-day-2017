@@ -19,7 +19,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 |     HORA      |                                Tema                                  |  Conferencista | Ubicación|
 |---------------|----------------------------------------------------------------------|----------------|----------|
 | 09:00 a 09:10 | Bienvenida                                                           | FLOSSPA        |          |
-| 09:15 a 09:45 | Big Data: tomar decisiones empresariales también pueden ser Free | [Cecilio Niño](https://pa.linkedin.com/in/cecilio-niño-aa778a39) ||
+| 09:15 a 09:45 | Big Data: tomar decisiones inteligentes también pueden ser Free | [Cecilio Niño](https://pa.linkedin.com/in/cecilio-niño-aa778a39) ||
 | 09:45 a 10:30 | Ingeniería Social con Social-Engineering Toolkit (SET) | [Leonardo Esqueda](https://github.com/ShaoranD3) ||
 | 10:30 a 11:15 |  Fintech/Blockchain  (Criptomonedas)| [Felipe Echandi ]() ||
 | 11:15 a 12:00 | What is a Data Scientist? Reasons why Fedora is the best OS for Big Data | [José Reyes](https://github.com/yosef7/) ||
@@ -36,13 +36,13 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 |---------------|----------------------------------------------------------------------|----------------|----------|
 | 09:00 a 09:10 | Bienvenida                                                           | FLOSSPA        |          |
 | 09:45 a 10:30 | Gestión de Proyectos con Git y GitHub| [David Lopez](https://twitter.com/David25LO?lang=es) ||
-| 10:30 a 11:15 |  |  ||
+| 10:30 a 11:15 | Producción de audio y video utilizando la suite de Ubuntu Studio | [Krishna Torres]() ||
 | 11:15 a 12:00 |  |  ||
 | 12:00 a 12:30 | __Almuerzo (SFD lunch)__ |||
-| 12:30 a 01:15 | Por definir | [Omar Vasquez]()  ||
+| 12:30 a 01:15 |  |  ||
 | 01:15 a 02:00 | Infraestrutura Open-Source | [Oscar Marrugo Ricardo](https://pa.linkedin.com/in/oscar-marrugo-ricardo-a558a573) ||
 | 02:00 a 02:45 | Introducción al Web Scraping| [Luis Manuel](https://github.com/blackfile) ||
-| 02:45 a 03:15 | Vue.js |[Zahir Gudiño](https://twitter.com/zgudino?lang=es)|| 
+| 02:45 a 03:15 | Vue.js (por confirmar)|[Zahir Gudiño](https://twitter.com/zgudino?lang=es)|| 
 | 03:15 a 04:00 | Diseño de personajes con inkscape | [Julián Vega](http://www.arpiasoftware.com/) ||
 
 
