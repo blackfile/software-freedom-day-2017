@@ -23,7 +23,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 10:00 a 10:30 | Ingeniería Social con Social-Engineering Toolkit (SET) | [Leonardo Esqueda](https://github.com/ShaoranD3) ||
 | 10:30 a 11:00 |  Fintech/Blockchain  (Criptomonedas)| [Felipe Echandi ]() ||
 | 11:00 a 11:30 | What is a Data Scientist? Reasons why Fedora is the best OS for Big Data | [José Reyes](https://github.com/yosef7/) ||
-| 11:30 a 12:00 | Mozilla, Firefox y otras iniciativas | [Omar Vasquez]() ||
+| 11:30 a 12:00 | Mozilla, Firefox y otras iniciativas | [Omar Vasquez](https://mozillians.org/es/u/omar.vasquezlima/) ||
 | 12:00 a 12:30 | __Almuerzo (SFD lunch)__ |||
 | 12:30 a 1:00  | Docker y su aplicación en la industria |[Alberto Castillo](http://albertocg.com/)|| 
 | 01:00 a 01:30 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
